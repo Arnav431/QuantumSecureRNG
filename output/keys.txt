@@ -1,0 +1,9 @@
+Quantum-Secure Encryption Key
+================================
+Job ID: d5421bhsmlfc739fbpm0
+Quantum Bits: 4096 bits
+Key Length: 32 bytes (256 bits)
+Key (hex): 3efc9d3947d6a26bb70de1bf006a191706d8435aebafbef0ca4c610c64082de1
+
+Message: Quantum-secure cryptography using IBM Quantum
+Ciphertext Length: 64 bytes
