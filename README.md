@@ -65,14 +65,6 @@ The circuit produces truly random outcomes with approximately equal probability 
 ![Probability Histogram](img/Graph.png)
 
 
-### Public Instance Access
-
-If your IBM Quantum instance is publicly accessible, you can view the live circuit and results here:
-- **Circuit Link:** [Your IBM Quantum Circuit URL]
-- **Job Results:** [Your IBM Quantum Job URL]
-
-> **Note:** If you're using a public instance, anyone with the link can view the circuit design and execution results. For private projects, ensure your API tokens remain secure.
-
 ## Setup
 
 1. **Install Dependencies**
@@ -138,5 +130,6 @@ Message encrypted successfully using quantum-secure key
 [Add your license here]
 
 ## Contributing
+
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for improvements.
