@@ -68,7 +68,7 @@ The circuit produces truly random outcomes with approximately equal probability 
 ## Setup
 
 1. **Install Dependencies**
-   - Python 3.8+
+   - **Python version:** >= 3.8 and < 3.12
    - Install required packages:
      ```bash
      pip install qiskit qiskit-ibm-runtime python-dotenv
@@ -130,4 +130,5 @@ Message encrypted successfully using quantum-secure key
 
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for improvements.
+
 
