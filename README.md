@@ -125,11 +125,9 @@ Message encrypted successfully using quantum-secure key
 - [Qiskit Documentation](https://qiskit.org/documentation/)
 - [Quantum Random Number Generation](https://en.wikipedia.org/wiki/Hardware_random_number_generator#Quantum_random_number_generators)
 
-## License
-
-[Add your license here]
 
 ## Contributing
 
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for improvements.
+
