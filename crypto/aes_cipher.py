@@ -16,7 +16,7 @@ def encrypt(message, key):
     cipher = AES.new(key, AES.MODE_CBC)
     iv = cipher.iv
     ciphertext = cipher.encrypt(pad(message.encode(), AES.block_size))
-    # Return IV + ciphertext so we can decrypt later
+
     return iv + ciphertext
 
 def decrypt(ciphertext, key):
@@ -30,7 +30,7 @@ def decrypt(ciphertext, key):
     Returns:
         str: Decrypted message
     """
-    # Extract IV from the first 16 bytes
+
     iv = ciphertext[:AES.block_size]
     actual_ciphertext = ciphertext[AES.block_size:]
     
